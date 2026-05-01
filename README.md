@@ -34,15 +34,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)  
 
----
-
-## 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=Sangita&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangita&layout=compact&theme=radical)  
-
----
-
 ## 🔥 Streak Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sangita&theme=radical)  
 
